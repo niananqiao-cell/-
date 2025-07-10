@@ -1,0 +1,4 @@
+Input shape: 20, 9
+Output shape: 9
+LSTM units: 24
+Dense units: 16
